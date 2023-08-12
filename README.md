@@ -4,7 +4,6 @@
 
 
 
-- 🔭 I’m currently working on **a Tik_Tok Clone**
 
 - 🌱 I’m currently learning **NextJs, Typescript**
 
